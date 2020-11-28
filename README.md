@@ -1,6 +1,6 @@
 ### Hello there, I am Rahe! 👋
 
-- 🔭 I’m currently studying at Purwadhika Digital Technology School
+- 🔭 I’m currently studying Data Science & Machine Learning at Purwadhika Digital Technology School
 - ⚡ Fun fact: Write Learner; A Rhotacism Human.
 
 **There is no giant step that does it, it a lot of little steps.**
